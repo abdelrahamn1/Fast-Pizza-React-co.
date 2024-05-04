@@ -6,7 +6,7 @@
 
 
 
-#### 🌟live Demo :  https://eat-spilt.netlify.app/
+#### 🌟live Demo :  https://pizza-menu-co.netlify.app/
 
 
 
@@ -56,6 +56,16 @@ Or if you prefer using Yarn:
 
 ```sh
 $ yarn add
+```
+
+if it not still working you can write this :
+```
+$ npm install react-scripts
+```
+
+Yarn :
+```
+$ yarn add react-scripts
 ```
 
 
