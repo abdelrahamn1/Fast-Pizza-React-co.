@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+[![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple pizaa menu React App
+> This is a React App to Visualize menu
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+#### 🌟live Demo :  https://eat-spilt.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Prerequisites
+ This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
+ , [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To make sure you have them available on your machine,
+try running the following command.
 
-### `npm run eject`
+```sh
+$ npm -v && node -v
+9.5.0
+v18.15.0
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Code Splitting
+## Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
 
-### Analyzing the Bundle Size
+Start with cloning this repo on your local machine:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```sh
+$ git clone https://github.com/abdelrahamn1/
+```
 
-### Making a Progressive Web App
+To install and set up the library, run:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```sh
+$ npm install
+```
 
-### Advanced Configuration
+Or if you prefer using Yarn:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```sh
+$ yarn add
+```
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Usage
 
-### `npm run build` fails to minify
+### Serving the app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+$ npm start
+```
+
+Or if you prefer using Yarn:
+
+```sh
+$ yarn start
+```
+
+## Built With
+* Node.js 
+* React
+* create-react-app
+
+* ## Authors
+
+* **abdelrahman1** - *Initial work* - [abdelrahman1](https://github.com/abdelrahman1)
